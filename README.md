@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on Full Stack, Web Development, Machine Learning, and Data Science projects
 - 🤝 I’m looking for help with understanding scalable backend systems and writing clean, maintainable code
 - 💬 Ask me about DSA, backend basics, databases, or getting started with full-stack projects
-- 📫 How to reach me: ashigupta1709@gmail.com
-- 😄 Pronouns: she/her
+- 📫 reach me at: ashigupta1709@gmail.com
 - 📚 Fun facts: I enjoy reading books and usually code with music on
